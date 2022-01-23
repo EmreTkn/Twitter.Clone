@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.Clone.WebApi", "Twitter.Clone.WebApi\Twitter.Clone.WebApi.csproj", "{F733027E-6B7F-465C-982C-0137E1C2A0AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.Clone.Data", "Twitter.Clone.Data\Twitter.Clone.Data.csproj", "{F31385E6-ED9B-45FA-B247-F4E471D24950}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.Clone.Models", "Twitter.Clone.Models\Twitter.Clone.Models.csproj", "{85450C57-55FB-408F-B798-8F0848E5C0A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter.Clone.Handlers", "Twitter.Clone.Handlers\Twitter.Clone.Handlers.csproj", "{6F97089C-68C1-4D30-944B-7B4F0195A914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F733027E-6B7F-465C-982C-0137E1C2A0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F733027E-6B7F-465C-982C-0137E1C2A0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F733027E-6B7F-465C-982C-0137E1C2A0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F733027E-6B7F-465C-982C-0137E1C2A0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31385E6-ED9B-45FA-B247-F4E471D24950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31385E6-ED9B-45FA-B247-F4E471D24950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31385E6-ED9B-45FA-B247-F4E471D24950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31385E6-ED9B-45FA-B247-F4E471D24950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85450C57-55FB-408F-B798-8F0848E5C0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85450C57-55FB-408F-B798-8F0848E5C0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85450C57-55FB-408F-B798-8F0848E5C0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85450C57-55FB-408F-B798-8F0848E5C0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F97089C-68C1-4D30-944B-7B4F0195A914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F97089C-68C1-4D30-944B-7B4F0195A914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F97089C-68C1-4D30-944B-7B4F0195A914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F97089C-68C1-4D30-944B-7B4F0195A914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328D3B42-F8A9-4499-BB99-0C775A5BD62F}
+	EndGlobalSection
+EndGlobal
